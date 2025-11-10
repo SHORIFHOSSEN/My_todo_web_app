@@ -1,0 +1,1 @@
+This project is a simple and efficient To-Do App that helps users manage daily tasks easily. Users can add, edit, and delete tasks, mark them as complete, and organize their work efficiently. It provides a clean interface for tracking progress and improving productivity through smart task management.
